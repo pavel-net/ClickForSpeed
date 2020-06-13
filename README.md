@@ -6,3 +6,5 @@ Scores you can get by the next ways:
 - pushing on the red button (not as easy!)
 - pushing on other balls, except for green one!
 You will loose points because of missing.
+
+Developed &#169; byPahych in 2014.
